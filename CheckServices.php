@@ -4,7 +4,7 @@ class CheckServices {
 		'admin_menu_category' => 'General',
 		'admin_menu_name' => 'Check Services',
 		'admin_menu_icon' => '<i class="icon-tasks"></i>',
-		'description' => 'Check service status from a comma seperated list of usernames.',
+		'description' => 'Check service status from a comma separated list of usernames.',
 	);
 	function admin_area() {
 		global $billic, $db;
